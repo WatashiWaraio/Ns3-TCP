@@ -7,7 +7,7 @@ Just like in the ns-3 simulation, the same volume of data was sent during the ph
 
 Physical Tests 🦕
 
-In addition to the simulation in ns-3, several physical tests were conducted, documented in the d_ecolab file. These tests validate the results obtained in the 
+In addition to the simulation in ns-3, several physical tests were conducted, documented in the colab file. These tests validate the results obtained in the 
 simulation and observe how traffic behaves under real conditions. 🛠️
 
 The analysis of the collected data will provide valuable insights into network performance under different scenarios.
